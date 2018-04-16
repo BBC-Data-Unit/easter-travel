@@ -2,7 +2,7 @@
 
 ![](https://ichef-1.bbci.co.uk/news/624/cpsprodpb/17F9F/production/_100570289_datapic-getawaytwix_birmingham-401cr-nc.png)
 
-In March 2018 **Dan Wainwright** [reported on traffic disruption expected over the Easter break](http://www.bbc.co.uk/news/uk-england-43545358)
+In March 2018 **Dan Wainwright** [reported on traffic disruption expected over the Easter break](http://www.bbc.co.uk/news/uk-england-43545358). The vast majority of roadworks were lifted but we wanted to show people which areas they ought to be aware of as some roadworks did have to stay in place for safety reasons.
 
 ## Get the data
 
