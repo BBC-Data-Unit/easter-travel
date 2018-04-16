@@ -20,4 +20,5 @@ In March 2018 **Dan Wainwright** [reported on traffic disruption expected over t
 
 ## Related repos
 
-* [Easter getaway: When is busiest by road, rail and air](https://github.com/bbc-data-unit/easter-getaway)
+* [Easter getaway: When is busiest by road, rail and air (2017)](https://github.com/bbc-data-unit/easter-getaway)
+* [All data unit repos tagged 'easter'](https://github.com/search?q=topic%3Aeaster+org%3ABBC-Data-Unit&type=Repositories)
