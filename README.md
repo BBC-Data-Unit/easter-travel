@@ -12,7 +12,7 @@ In March 2018 **Dan Wainwright** [reported on traffic disruption expected over t
 
 * Melanie Clarke, Customer service director, Highways England
 * Rod Dennis, spokesman, RAC
-* Network Rail
+* Network Rail.
 
 ## Visualisation
 
